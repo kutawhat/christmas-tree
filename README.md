@@ -1,5 +1,6 @@
 Merry Christmas and HNY everyone!
 This code will add an animated Christmas tree at your terminal
+
 Step by step guide:
 1. Download this git
 2. Create a C# Console Application
