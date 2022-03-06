@@ -9,4 +9,3 @@ Step by step guide:
 5. Open the terminal and cd to the Directive
 6. Type csc Program.cs
 7. Type mono Program.exe
-8. Done! 
